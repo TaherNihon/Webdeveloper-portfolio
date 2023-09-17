@@ -163,7 +163,8 @@ main {
 
 
 .resume-item-institute,
-.resume-item-descreption {
+.resume-item-descreption,
+.section-description {
     color: #757575;
 }
 
@@ -174,4 +175,12 @@ main {
 .download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer {
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
